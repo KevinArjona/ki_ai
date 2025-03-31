@@ -1,0 +1,6 @@
+Model,Best PRC AUC,max_depth,min_samples_split,min_samples_leaf,n_estimators,max_features,learning_rate
+Decision Tree,0.2217,7.0,19.0,5.0,,,
+Random Forest,0.2397,10.0,11.0,10.0,392.0,sqrt,
+AdaBoost,0.2197,,,,199.0,,0.44566976059873686
+Gradient Boosting,0.2438,4.0,11.0,7.0,293.0,,0.0412768146752765
+Naive Bayes,0.1733,,,,,,
